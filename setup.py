@@ -9,7 +9,7 @@ with open("README.rst", "r", encoding="utf-8") as fh:
 
 desc = "Package containing basic functions to build telegram bots."
 GPL = "GNU AFFERO GENERAL PUBLIC LICENSE (v3)"
-git = "https://github.com/pragy-dl/tgthon"
+git = "https://github.com/Rsslnew/tgthon"
 classify = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.6",
@@ -33,7 +33,7 @@ requirements = [
 setuptools.setup(
     name="tgthon",
     version=ver,
-    author="pragy-dl",
+    author="Rsslnew",
     description=desc,
     long_description=long_desc,
     long_description_content_type="text/markdown",
